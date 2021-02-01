@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kloudee/static/css/main.8cfbc563.chunk.css",
+    "main.js": "/kloudee/static/js/main.2b666332.chunk.js",
+    "main.js.map": "/kloudee/static/js/main.2b666332.chunk.js.map",
+    "runtime-main.js": "/kloudee/static/js/runtime-main.f9883c0f.js",
+    "runtime-main.js.map": "/kloudee/static/js/runtime-main.f9883c0f.js.map",
+    "static/js/2.ea9bf1f5.chunk.js": "/kloudee/static/js/2.ea9bf1f5.chunk.js",
+    "static/js/2.ea9bf1f5.chunk.js.map": "/kloudee/static/js/2.ea9bf1f5.chunk.js.map",
+    "static/js/3.7b9f77ef.chunk.js": "/kloudee/static/js/3.7b9f77ef.chunk.js",
+    "static/js/3.7b9f77ef.chunk.js.map": "/kloudee/static/js/3.7b9f77ef.chunk.js.map",
+    "index.html": "/kloudee/index.html",
+    "static/css/main.8cfbc563.chunk.css.map": "/kloudee/static/css/main.8cfbc563.chunk.css.map",
+    "static/js/2.ea9bf1f5.chunk.js.LICENSE.txt": "/kloudee/static/js/2.ea9bf1f5.chunk.js.LICENSE.txt",
+    "static/media/giphy2.c7d14370.gif": "/kloudee/static/media/giphy2.c7d14370.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9883c0f.js",
+    "static/js/2.ea9bf1f5.chunk.js",
+    "static/css/main.8cfbc563.chunk.css",
+    "static/js/main.2b666332.chunk.js"
+  ]
+}
